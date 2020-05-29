@@ -1,8 +1,8 @@
 # spamSMS-555
  
-git clone 
+git clone  https://github.com/art-cy/spamSMS-555
 
-cd spamSMS-555.py
+cd spamSMS-555
 
 chmod +x *
 
